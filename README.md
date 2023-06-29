@@ -33,19 +33,10 @@ within the mySQL shell, run `source db/schema.sql` to create the database.
 
 
 ## Usage
+https://github.com/Tazzok/E-Commerce
 
+A video walkthrough is available [here.](https://drive.google.com/file/d/1Xd7r0UoaEl-eXGdQmFvgDVj3trQjL5or/view)
 
-
-
-
-## License
-MIT License
-
-## Contributing
-n/a
-
-## Tests
-n/a
 
 
 ## License

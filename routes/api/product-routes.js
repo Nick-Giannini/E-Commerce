@@ -4,7 +4,6 @@ const { Product, Category, Tag } = require('../../models');
 
 
 
-
 router.get('/', async (req, res) => {
     try {
         const products = await Product.findAll();
